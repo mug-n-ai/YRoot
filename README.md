@@ -22,8 +22,9 @@ Valid actions emerge only from solid chains of logic. The WHY Loop is recursive:
 
 ## 📜 License
 
-This work is licensed under **Creative Commons Attribution–NoDerivatives 4.0 International (CC BY-ND 4.0)**.  
-You may share and use it, but not modify it or sell derivative works without the author's permission.
+This work is licensed under a **Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.
+You may share and use this framework for personal, academic, or non-commercial purposes, provided that appropriate credit is given and no modifications are made.
+Commercial use (including training, consulting, resale, or inclusion in paid materials) requires prior written permission from the author.
 
 **Author**: Lorenzo Mugnai  
 **First published**: 7 June 2025
