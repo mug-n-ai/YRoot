@@ -3,15 +3,13 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main  # o 'master' se usi ancora quel nome
+      - main
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
 
 jobs:
-  build:
+  build-deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -30,13 +28,8 @@ jobs:
         run: npm run build
         working-directory: website
 
-
       - name: Deploy to GitHub Pages
-        run: |
-            git config --global user.name 'github-actions'
-            git config --global user.email 'github-actions@github.com'
-            GIT_USER=github-actions npm run deploy
+        run: npm run deploy
         working-directory: website
         env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
