@@ -35,5 +35,4 @@ jobs:
         run: npm run deploy
         working-directory: website
         env:
-            GIT_USER: ${{ secrets.GITHUB_ACTOR }}
-            GIT_PASS: ${{ secrets.GITHUB_TOKEN }}
+            USE_SSH: true
