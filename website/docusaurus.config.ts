@@ -38,7 +38,7 @@ const config: Config = {
       ({
         docs: {
           path: '../docs', // usa la tua cartella esistente
-          // routeBasePath: '/', // serve i contenuti come homepage
+          routeBasePath: '/', // serve i contenuti come homepage
           sidebarPath: require.resolve('./sidebars.ts'),
         },
         blog: false,
