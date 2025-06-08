@@ -1,0 +1,15 @@
+.heroBanner {
+  background-color: #3f3d56;
+  color: white;
+  padding: 4rem 0;
+  text-align: center;
+}
+
+.featureIcon {
+  height: 100px;
+  margin-bottom: 1rem;
+}
+
+.buttons {
+  margin-top: 2rem;
+}

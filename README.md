@@ -1,6 +1,6 @@
 # The WHY Loop
 
-**A structured reasoning framework to go from goals to actions – by Lorenzo Mugnai**
+## A structured reasoning framework to go from goals to actions – by Lorenzo Mugnai
 
 The WHY Loop is a modular thinking system that helps you clarify any goal, identify what is truly needed to reach it, and distinguish between what helps and what hinders — all by asking *Why?* at every level. It turns complex, ambiguous challenges into a traceable sequence of justified actions.
 
@@ -38,11 +38,11 @@ If a branch becomes too complex or uncertain, open a new cell. The WHY Loop is *
 ## 📘 Documentation
 
 - [Official Framework PDF](docs/The_WHY_Loop_Framework_by_Lorenzo_Mugnai.pdf)  
-- [Case Study: Apollo 13 Historical](examples/apollo13_case.md)
-- [Case Study: Burnout](examples/burnout.md)
-- [Case Study: Career transition](examples/career_transition.md)
-- [Case Study: University learning strategy](examples/learning_strategy.md)
-- [Visual Diagram](docs/Diagram.png)
+- [Case Study: Apollo 13 Historical](docs/examples/apollo13_case.md)
+- [Case Study: Burnout](docs/examples/burnout.md)
+- [Case Study: Career transition](docs/examples/career_transition.md)
+- [Case Study: University learning strategy](docs/examples/learning_strategy.md)
+- [Visual Diagram](docs/diagram.png)
 
 ---
 
