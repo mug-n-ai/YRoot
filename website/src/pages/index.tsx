@@ -1,27 +1,40 @@
-import React, { JSX } from 'react';
+import React from 'react';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import styles from './index.module.css';
+import Logo from '@site/static/img/logo.svg';
 
-export default function Home(): JSX.Element {
+export default function Home() {
   return (
     <Layout
       title="The WHY Loop"
       description="A reasoning method to turn goals into grounded actions — one WHY at a time.">
+      
       <header className={styles.heroBanner}>
         <div className="container">
+          <div style={{ display: 'flex', justifyContent: 'center' }}>
+            <Logo className={styles.heroLogo} />
+          </div>
           <h1 className="hero__title">The WHY Loop</h1>
-          <p className="hero__subtitle">From goals to grounded actions — one WHY at a time.</p>
+          <p className="hero__subtitle">
+            A structured method to move from goals to grounded actions — through logic, iteration, and one powerful question.
+          </p>
           <div className={styles.buttons}>
-            <Link className="button button--primary button--lg" to="/method">
-              Explore the Method
+            <Link className="button button--secondary button--lg" to="/method">
+              How It Works
+            </Link>
+            <span style={{ margin: '0 1rem' }}></span>
+            <Link className="button button--secondary button--lg" to="/power">
+              Why It Works
             </Link>
           </div>
         </div>
       </header>
 
       <main>
+
         <section className="container padding-vert--lg">
+          <h2 className="text--center">The Core Structure</h2>
           <div className="row">
             <div className="col col--4">
               <div className="text--center">
@@ -41,22 +54,39 @@ export default function Home(): JSX.Element {
               <div className="text--center">
                 <img src="/img/bifurcation.png" alt="Bifurcation Icon" className={styles.featureIcon} />
                 <h3>3. Strategic Bifurcation</h3>
-                <p>Explore helpful strategies and risks for each need.</p>
+                <p>Explore what helps and what could fail — and why.</p>
               </div>
             </div>
           </div>
         </section>
 
         <section className="container padding-vert--lg">
-          <h2 className="text--center">Why Choose the WHY Loop?</h2>
-          <p className="text--center">Grounded logic. Transparent decisions. Adaptable across fields.</p>
+          <h2 className="text--center">Explore the WHY Loop</h2>
+          <div className="row text--center">
+            <div className="col col--4">
+              <h4>The Method</h4>
+              <p>Step-by-step breakdown of the WHY Loop structure.</p>
+              <Link to="/method" className="button button--primary button--sm">Read More</Link>
+            </div>
+            <div className="col col--4">
+              <h4>Why It Works</h4>
+              <p>Why this simple method is so effective across domains.</p>
+              <Link to="/power" className="button button--primary button--sm">Read More</Link>
+            </div>
+            <div className="col col--4">
+              <h4>In Context</h4>
+              <p>How it compares and complements other frameworks.</p>
+              <Link to="/context" className="button button--primary button--sm">Read More</Link>
+            </div>
+          </div>
+        </section>
+
+        <section className="container padding-vert--lg">
+          <h2 className="text--center">Case Studies</h2>
+          <p className="text--center">See how the WHY Loop applies in coaching, education, crisis response, and career change.</p>
           <div className="text--center">
-            <Link className="button button--secondary button--lg" to="/context">
-              The WHY Loop in Context
-            </Link>
-            <span style={{ margin: '0 1rem' }}></span>
-            <Link className="button button--outline button--lg" to="/cases">
-              See Case Studies
+            <Link className="button button--secondary button--lg" to="/cases">
+              View Examples
             </Link>
           </div>
         </section>

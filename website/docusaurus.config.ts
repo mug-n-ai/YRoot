@@ -112,6 +112,10 @@ const config: Config = {
               label: 'Case Studies',
               to: '/cases',
             },
+            {
+              label: 'License',
+              to: '/license',
+            },
           ],
         },
         {
