@@ -38,7 +38,8 @@ If a branch becomes too complex or uncertain, open a new cell. The WHY Loop is *
 ## 📘 Documentation
 
 - [Official Framework PDF](docs/The_WHY_Loop_Framework_by_Lorenzo_Mugnai.pdf)  
-- [Apollo 13 Historical Case Study](examples/apollo13_case.md)  
+- [Apollo 13 Historical Case Study](examples/apollo13_case.md)
+- [University learning strategy Case Study](examples/learning_strategy.md)
 - [Visual Diagram](docs/Diagram.png)
 
 ---
