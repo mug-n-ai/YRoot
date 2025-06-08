@@ -39,21 +39,21 @@ export default function Home() {
           <div className="row">
             <div className="col col--4">
               <div className="text--center">
-                <img src="${useBaseUrl('/img/goals.png')}" alt="Goal Icon" className={styles.featureIcon} />
+                <img src={useBaseUrl('/img/goals.png')} alt="Goal Icon" className={styles.featureIcon} />
                 <h3>1. Goal</h3>
                 <p>Clarify what you want to achieve and why it matters.</p>
               </div>
             </div>
             <div className="col col--4">
               <div className="text--center">
-                <img src="${useBaseUrl('/img/needs.png')}" alt="Needs Icon" className={styles.featureIcon} />
+                <img src={useBaseUrl('/img/needs.png')} alt="Needs Icon" className={styles.featureIcon} />
                 <h3>2. Needs</h3>
                 <p>Identify what must be true to reach your goal.</p>
               </div>
             </div>
             <div className="col col--4">
               <div className="text--center">
-                <img src="${useBaseUrl(/img/bifurcation.png')}" alt="Bifurcation Icon" className={styles.featureIcon} />
+                <img src={useBaseUrl('/img/bifurcation.png')} alt="Bifurcation Icon" className={styles.featureIcon} />
                 <h3>3. Strategic Bifurcation</h3>
                 <p>Explore what helps and what could fail — and why.</p>
               </div>
