@@ -32,7 +32,11 @@ jobs:
 
 
       - name: Deploy to GitHub Pages
-        run: npm run deploy
+        run: |
+            git config --global user.name 'github-actions'
+            git config --global user.email 'github-actions@github.com'
+            GIT_USER=github-actions npm run deploy
         working-directory: website
         env:
-            USE_SSH: true
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+

@@ -16,7 +16,7 @@ const config: Config = {
   },
 
   organizationName: 'mug-n-ai', // Usually your GitHub org/user name.
-  projectName: 'the-why-loop', // Usually your repo name.
+  projectName: 'The-WHY-loop',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 

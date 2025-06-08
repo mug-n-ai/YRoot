@@ -6,4 +6,3 @@ A structured reasoning method to transform your goals into grounded, testable ac
 
 - [Read the Method](method.md)
 - [Case Studies](cases.md)
-- [Resources](resources.md)
