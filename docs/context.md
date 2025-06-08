@@ -71,3 +71,9 @@ If you need a method to **clarify goals**, **test assumptions**, and **turn inte
 > Not instead of others—but before, during, or after them.
 
 It’s not a replacement. It’s a foundation.
+
+## Related Pages
+
+- [How the WHY Loop Works in Practice](cases.md)  
+- [The Method Explained](method.md)  
+- [Why the WHY Loop Works](power.md)

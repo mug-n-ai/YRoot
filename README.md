@@ -38,6 +38,11 @@ If a branch becomes too complex or uncertain, open a new cell. The WHY Loop is *
 ## 📘 Documentation
 
 - [Official Framework PDF](docs/The_WHY_Loop_Framework_by_Lorenzo_Mugnai.pdf)  
+- [Method Overview](docs/method.md)
+- [Why the WHY Loop Works](docs/power.md)
+- [Context and Comparison with Other Frameworks](docs/context.md)
+- [How the WHY Loop Works in Practice](docs/cases.md)
+- [Case Study: Power System Design](docs/examples/power.md)
 - [Case Study: Apollo 13 Historical](docs/examples/apollo13_case.md)
 - [Case Study: Burnout](docs/examples/burnout.md)
 - [Case Study: Career transition](docs/examples/career_transition.md)

@@ -51,7 +51,7 @@ export default function Home(): JSX.Element {
           <h2 className="text--center">Why Choose the WHY Loop?</h2>
           <p className="text--center">Grounded logic. Transparent decisions. Adaptable across fields.</p>
           <div className="text--center">
-            <Link className="button button--secondary button--lg" to="/comparison">
+            <Link className="button button--secondary button--lg" to="/context">
               The WHY Loop in Context
             </Link>
             <span style={{ margin: '0 1rem' }}></span>

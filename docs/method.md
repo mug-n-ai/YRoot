@@ -136,5 +136,7 @@ The WHY Loop works without them by design.
 
 ## Related Pages
 
-- [The WHY Loop in Context](comparison.md)
+- [Why the WHY Loop Works](power.md)
+- [The WHY Loop in Context](context.md)
 - [Visual Diagram](diagram.png)
+- [How the WHY Loop Works in Practice](cases.md)  

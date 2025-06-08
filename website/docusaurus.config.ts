@@ -58,10 +58,28 @@ const config: Config = {
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          label: 'Method',
+          to: '/method',
+          activeBasePath: '/method',
           position: 'left',
-          label: 'The WHY Loop',
+        },                    {
+          label: 'Why it works ',
+          to: '/power',
+          position: 'left',
+          activeBasePath: '/method',
+            },
+
+        {
+          label: 'Why Loop in Context',
+          to: '/context',
+          activeBasePath: '/context',
+          position: 'left',
+        },
+        {
+          label: 'Case Studies',
+          to: '/cases',
+          activeBasePath: '/cases',
+          position: 'left',
         },
         {
           href: 'https://github.com/mug-n-ai/The-WHY-loop',
@@ -69,6 +87,7 @@ const config: Config = {
           position: 'right',
         },
       ],
+
 
     },
     footer: {
@@ -78,16 +97,20 @@ const config: Config = {
           title: 'Learn',
           items: [
             {
-              label: 'Method Overview',
-              to: '/',
+              label: 'Method Details',
+              to: '/method',
+            },
+            {
+              label: 'Why it works ',
+              to: '/power',
+            },
+            {
+              label: 'WHY Loop in Context',
+              to: '/context',
             },
             {
               label: 'Case Studies',
               to: '/cases',
-            },
-            {
-              label: 'Resources',
-              to: '/resources',
             },
           ],
         },
@@ -96,7 +119,7 @@ const config: Config = {
           items: [
             {
               label: 'Lorenzo Mugnai',
-              href: 'https://github.com/lorenzomugnai',
+              href: 'https://www.lorenzomugnai.com',
             },
           ],
         },
