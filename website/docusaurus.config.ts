@@ -9,6 +9,7 @@ const config: Config = {
   tagline: 'From goals to grounded actions — one WHY at a time',
   url: 'https://mug-n-ai.github.io', 
   baseUrl: '/The-WHY-loop/',
+  favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
