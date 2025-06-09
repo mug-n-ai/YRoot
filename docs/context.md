@@ -13,18 +13,48 @@ It helps you clarify *why* you're doing it in the first place—and what must be
 
 ---
 
+## Origins
+
+The WHY Loop emerged from a simple but recurring frustration: many frameworks help you execute well, but few help you think well *before* you act. It was born out of cross-disciplinary work where goals were often assumed, risks overlooked, and actions justified only in hindsight.
+
+Inspired by the recursive nature of scientific reasoning and the need for a lightweight structure that could challenge assumptions without becoming bureaucratic, the WHY Loop was designed as a logic-first tool. It draws loosely from fields such as systems thinking, critical reasoning, abductive logic, and diagnostic methods like root cause analysis—but restructures them around a central idea: that every action should be grounded in *why* it matters, and *why* it might work.
+
+Its recursive architecture allows for both strategic planning and reflective evaluation, making it suitable across domains, from policy design to software development, from coaching to research.
+
 ## How It Compares
 
 The WHY Loop shares themes with many respected frameworks. But it offers a unique logic-first structure that can both precede and enhance them.
 
-| Framework | Main Question | Strength | Limitation |
-|-----------|----------------|----------|------------|
-| **WHY Loop** | Why is this needed? Why will it work? | Clear logic and recursive validation | Requires deliberate reasoning |
-| **OODA Loop** | What do I observe and do? | Fast in uncertain settings | Less suited to deep validation |
-| **Design Thinking** | How can I solve this for the user? | Creativity, empathy, iteration | Assumes the challenge is well-posed |
-| **Theory of Constraints** | What blocks the goal? | Process optimization | Treats goal as fixed |
-| **GORE** | What is required to meet the goal? | Goal decomposition | Technical and domain-specific |
-| **Paul–Elder Model** | Is this well-reasoned? | Reflective depth | Less focused on action
+| Framework | Main Question | Strength | Limitation | Use Type |
+:::note
+Scroll the table horizontally on mobile
+:::
+
+<div style={{ overflowX: 'auto' }}>
+
+| Framework | Main Question | Strength | Limitation | Use Type |
+|-----------|----------------|----------|------------|----------|
+| **WHY Loop** | Why is this needed? Why will it work? | Clear logic and recursive validation | Requires deliberate reasoning | Strategic + Reflective |
+| **OODA Loop** | What do I observe and do? | Fast in uncertain settings | Skips deep causal analysis — WHY Loop adds foundational clarity | Operational |
+| **Design Thinking** | How can I solve this for the user? | Creativity, empathy, iteration | Assumes the problem is well-framed — WHY Loop questions that premise | Creative + Strategic |
+| **Theory of Constraints** | What blocks the goal? | Process optimization | Accepts the goal as fixed — WHY Loop re-evaluates its validity | Operational |
+| **GORE** | What is required to meet the goal? | Goal decomposition | Technically strong but rigid — WHY Loop is more flexible and domain-free | Technical + Strategic |
+| **Paul–Elder Model** | Is this well-reasoned? | Reflective depth | Focuses on thought quality, not action — WHY Loop connects both | Reflective |
+| **Cynefin Framework** | What kind of situation am I in? | Helps adapt decisions to context | Doesn’t test internal logic — WHY Loop provides rigorous causal validation | Situational Awareness |
+| **Root Cause Analysis** | Why did this happen? | Traces underlying problems | Looks backward — WHY Loop applies prospectively too | Diagnostic |
+| **Logical Framework (LogFrame)** | What are the goals, inputs, outputs? | Structured planning and traceability | Rigid and goal-assuming — WHY Loop enables goal rethinking | Planning + Monitoring |
+| **Systems Thinking** | How do elements interact? | Captures complexity and feedback | Focuses on interconnections — WHY Loop emphasizes decision logic | Analytical + Strategic |
+| **PRECEDE–PROCEED** | What must be true for change? | Evidence-based planning | Domain-specific and heavy — WHY Loop is lightweight and general-purpose | Policy + Health Planning |
+| **Issue Tree** | Why/how does this break down? | Visual clarity and MECE logic | Good for diagnostics, but lacks condition testing — WHY Loop adds falsifiability | Strategic + Diagnostic |
+| **Tree of Thoughts (ToT)** | What reasoning paths are possible? | Explores alternatives and backtracking | Strong for AI but lacks assumption testing — WHY Loop validates each logical fork | AI Reasoning / Analytical |
+| **Chain-of-Thought (CoT)** | What logical steps are needed? | Clear breakdown of logic chains | Linear with no hypothesis testing — WHY Loop is recursive and critical | Analytical |
+| **FORR (For the Right Reasons)** | What reasons support this decision? | Combines multiple reasoning strategies | Based on heuristics — WHY Loop is explicit, logic-based, and independent of training | Cognitive Architecture |
+| **Case-Based Reasoning** | What worked before? | Reuses proven solutions | Uses analogies — WHY Loop starts fresh from assumptions | Analogical / Learning from Past |
+| **8D Problem Solving** | How do we solve this as a team? | Structured group resolution and RCA | Reactive and post hoc — WHY Loop helps prevent flawed assumptions beforehand | Operational / Quality |
+| **Abductive Logic Programming** | What best explains or justifies this? | Formal constraint-based reasoning | Technically demanding — WHY Loop is intuitive and widely applicable | Formal Reasoning / Planning |
+
+</div>
+
 
 ---
 

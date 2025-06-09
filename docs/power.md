@@ -21,7 +21,7 @@ Instead of spiraling in emotion, it gives you a path:
 → What helps? What hinders?
 :::
 
-That shift — from vague discomfort to structured reasoning — is often the first turning point.
+That shift, from vague discomfort to structured reasoning, is often the first turning point.
 
 ---
 
@@ -35,7 +35,7 @@ Most people say things like:
 
 But these aren’t goals. They’re signals.
 
-The WHY Loop helps you translate those signals into **explicit objectives with logical conditions**. That changes everything — because once a goal is testable, it becomes actionable.
+The WHY Loop helps you translate those signals into **explicit objectives with logical conditions**. That changes everything, because once a goal is testable, it becomes actionable.
 
 ---
 
@@ -47,7 +47,7 @@ The WHY Loop inserts a constant mechanism of questioning:
 **Why? Why this? Why now? Why would it work?**
 
 :::note
-This isn’t to slow you down — it’s to protect you from wasting effort.
+This isn’t to slow you down: it’s to protect you from wasting effort.
 Better to pivot at step 2 than to collapse at step 9.
 :::
 
@@ -63,7 +63,7 @@ The WHY Loop always asks:
 > Why might this fail?  
 > What assumptions could break?
 
-That double path — one toward possibility, one toward fragility — allows you to **balance realism with optimism**, and to take risk-aware action.
+That double path, one toward possibility, one toward fragility, allows you to **balance realism with optimism**, and to take risk-aware action.
 
 ---
 
@@ -94,7 +94,7 @@ You can use the WHY Loop in:
 - Crisis management or high-stakes decisions
 - Writing, research, negotiation, habit design
 
-Wherever you think — the WHY Loop fits.
+Wherever you think, the WHY Loop fits.
 
 ---
 
@@ -112,7 +112,7 @@ You’re no longer acting out of panic, but out of intention.
 
 The WHY Loop works because it reflects how good reasoning unfolds: step by step, with questions at each turn.
 
-It helps you slow down just enough to think better — and then act faster, with clarity.
+It helps you slow down just enough to think better, and then act faster, with clarity.
 
 > It’s not a magic trick.  
 > It’s structured thinking, made human.
