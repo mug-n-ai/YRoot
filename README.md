@@ -41,7 +41,6 @@ This diagram shows the structure of a single WHY Loop Cell: a unit of reasoning 
 
 ```mermaid
 flowchart TD
-flowchart TD
     GOAL(["GOAL<br>What do you want to achieve?<br><b>Why</b> do you want to achieve it?"]) --> NEEDS(["NEEDS<br>What do you need to achieve your goal?<br><b>Why</b> do you need to satisfy this?"])
     NEEDS --> HELP(["What would <b>help</b> you to satisfy the need?<br><b>Why</b> would this help?"]) & RISK(["What would <b>work against</b> the need?<br><b>Why</b> would it work against?"])
     NEEDS -.-> GOAL
