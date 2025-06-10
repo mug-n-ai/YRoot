@@ -34,6 +34,7 @@ Each **WHY Loop Cell** represents a self-contained unit of reasoning. You can ch
 If a branch becomes too complex or uncertain, open a new cell. The WHY Loop is **recursive** by design.
 
 ---
+
 ## 📊 Visual Overview
 
 This diagram shows the structure of a single WHY Loop Cell: a unit of reasoning that helps you go from a goal to grounded, testable actions.
@@ -65,16 +66,6 @@ flowchart TD
     classDef cell fill:#f9f9f9,stroke:#ccc,stroke-width:1px;
     class GOAL,NEEDS,HELP,RISK cell;
 
-    %% notes
-    note left of HELP
-      Repeat for every need
-    end
-
-    note right of GOAL
-      Identify the problem
-      ↓
-      Generate the solution
-    end
 ```
 
 ---
