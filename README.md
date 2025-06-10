@@ -41,31 +41,30 @@ This diagram shows the structure of a single WHY Loop Cell: a unit of reasoning 
 
 ```mermaid
 flowchart TD
-    %% main block WHY Loop Cell
-    GOAL(["GOAL<br/>What do you want to achieve?<br/><b>Why</b> do you want to achieve it?"])
-    NEEDS(["NEEDS<br/>What do you need to achieve your goal?<br/><b>Why</b> do you need to satisfy this?"])
-    HELP(["What would <b>help</b> you to satisfy the need?<br/><b>Why</b> would this help?"])
-    RISK(["What would <b>work against</b> the need?<br/><b>Why</b> would it work against?"])
+flowchart TD
+    GOAL(["GOAL<br>What do you want to achieve?<br><b>Why</b> do you want to achieve it?"]) --> NEEDS(["NEEDS<br>What do you need to achieve your goal?<br><b>Why</b> do you need to satisfy this?"])
+    NEEDS --> HELP(["What would <b>help</b> you to satisfy the need?<br><b>Why</b> would this help?"]) & RISK(["What would <b>work against</b> the need?<br><b>Why</b> would it work against?"])
+    NEEDS -.-> GOAL
+    HELP --> DIFF{"Is it difficult to achieve?"}
+    HELP -.-> NEEDS
+    DIFF -- NO --> ACT1[/"✅ This is an action"/]
+    DIFF -- YES --> NEWCELL["Start a new WHY Loop Cell<br><i>Break down complexity or test feasibility</i>"]
+    RISK --> AVOID{"Is it possible to avoid?"}
+    RISK -.-> NEEDS
+    AVOID -- YES --> ACT2[/"✅ Avoid this: it is an action"/]
+    AVOID -- NO --> FAIL["🚫 The GOAL cannot be achieved.<br>This need cannot be satisfied.<br>The goal must be re-evaluated."]
 
-    %% logical connections 
-    GOAL --> NEEDS
-    NEEDS --> HELP
-    NEEDS --> RISK
-
-    %% HELP side bifurcation
-    HELP --> DIFF{Is it difficult to achieve?}
-    DIFF -->|NO| ACT1[/"✅ This is an action"/]
-    DIFF -->|YES| NEWCELL["Start a new WHY Loop Cell<br/><i>Break down complexity or test feasibility</i>"]
-
-    %% RISK side bifurcation
-    RISK --> AVOID{Is it possible to avoid?}
-    AVOID -->|YES| ACT2[/"✅ Avoid this: it is an action"/]
-    AVOID -->|NO| FAIL["🚫 The GOAL cannot be achieved.<br/>This need cannot be satisfied.<br/>The goal must be re-evaluated."]
-
-    %% Annotations
-    classDef cell fill:#f9f9f9,stroke:#ccc,stroke-width:1px;
-    class GOAL,NEEDS,HELP,RISK cell;
-
+     GOAL:::cell
+     NEEDS:::cell
+     HELP:::cell
+     RISK:::cell
+    classDef cell fill:#f9f9f9,stroke:#ccc,stroke-width:1px
+    linkStyle 0 stroke:#BBDEFB,fill:none
+    linkStyle 1 stroke:#BBDEFB,fill:none
+    linkStyle 2 stroke:#BBDEFB,fill:none
+    linkStyle 3 stroke:#C8E6C9,fill:none
+    linkStyle 5 stroke:#C8E6C9,fill:none
+    linkStyle 9 stroke:#C8E6C9,fill:none
 ```
 
 ---

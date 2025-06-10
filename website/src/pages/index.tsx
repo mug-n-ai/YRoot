@@ -34,6 +34,7 @@ export default function Home() {
 
       <main>
 
+
         <section className="container padding-vert--lg">
           <h2 className="text--center">The Core Structure</h2>
           <div className="row">
@@ -60,6 +61,17 @@ export default function Home() {
             </div>
           </div>
         </section>
+
+<section className="container padding-vert--lg">
+  {/* <h2 className="text--center">Visual Summary</h2> */}
+  <div className="text--center">
+    <img
+      src={useBaseUrl('/img/diagram.svg')}
+      alt="Simplified WHY Loop Diagram"
+      style={{ maxWidth: '600px', margin: '0 auto' }}
+    />
+  </div>
+</section>
 
         <section className="container padding-vert--lg">
           <h2 className="text--center">Explore the WHY Loop</h2>
