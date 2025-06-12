@@ -1,14 +1,14 @@
-# The WHY Loop
+# The YRoot
 
 ## A structured reasoning framework to go from goals to actions – by Lorenzo Mugnai
 
-The WHY Loop is a modular thinking system that helps you clarify any goal, identify what is truly needed to reach it, and distinguish between what helps and what hinders — all by asking *Why?* at every level. It turns complex, ambiguous challenges into a traceable sequence of justified actions.
+The YRoot is a modular thinking system that helps you clarify any goal, identify what is truly needed to reach it, and distinguish between what helps and what hinders — all by asking *Why?* at every level. It turns complex, ambiguous challenges into a traceable sequence of justified actions.
 
 ---
 
 ## 🔄 Structure
 
-Each **WHY Loop Cell** represents a self-contained unit of reasoning. You can chain or nest multiple cells to explore sub-actions or complex goals.
+Each **YRoot Cell** represents a self-contained unit of reasoning. You can chain or nest multiple cells to explore sub-actions or complex goals.
 
 1. **GOAL** – What do you want to achieve?  
    → *Why do you want to achieve it?*
@@ -22,7 +22,7 @@ Each **WHY Loop Cell** represents a self-contained unit of reasoning. You can ch
    → Why would it help?  
    → Under what assumptions or conditions?  
    → ⤷ If it’s *not difficult to achieve*, it becomes a valid action  
-   → ⤷ If it *is* difficult, open a new WHY Loop Cell to explore it further
+   → ⤷ If it *is* difficult, open a new YRoot Cell to explore it further
 
    **B. What could work against the satisfaction of the need?**  
    → Why might it work against it?  
@@ -31,13 +31,13 @@ Each **WHY Loop Cell** represents a self-contained unit of reasoning. You can ch
    → ⤷ If *no*, the goal cannot be achieved — the cell collapses
 
 **Valid actions** emerge only from viable and traceable branches.  
-If a branch becomes too complex or uncertain, open a new cell. The WHY Loop is **recursive** by design.
+If a branch becomes too complex or uncertain, open a new cell. The YRoot is **recursive** by design.
 
 ---
 
 ## 📊 Visual Overview
 
-This diagram shows the structure of a single WHY Loop Cell: a unit of reasoning that helps you go from a goal to grounded, testable actions.
+This diagram shows the structure of a single YRoot Cell: a unit of reasoning that helps you go from a goal to grounded, testable actions.
 
 ```mermaid
 flowchart TD
@@ -47,7 +47,7 @@ flowchart TD
     HELP --> DIFF{"Is it difficult to achieve?"}
     HELP -.-> NEEDS
     DIFF -- NO --> ACT1[/"✅ This is an action"/]
-    DIFF -- YES --> NEWCELL["Start a new WHY Loop Cell<br><i>Break down complexity or test feasibility</i>"]
+    DIFF -- YES --> NEWCELL["Start a new YRoot Cell<br><i>Break down complexity or test feasibility</i>"]
     RISK --> AVOID{"Is it possible to avoid?"}
     RISK -.-> NEEDS
     AVOID -- YES --> ACT2[/"✅ Avoid this: it is an action"/]
@@ -72,9 +72,9 @@ flowchart TD
 
 - [Official Framework PDF](docs/The_WHY_Loop_Framework_by_Lorenzo_Mugnai.pdf)  
 - [Method Overview](docs/method.md)
-- [Why the WHY Loop Works](docs/power.md)
+- [Why the YRoot Works](docs/power.md)
 - [Context and Comparison with Other Frameworks](docs/context.md)
-- [How the WHY Loop Works in Practice](docs/cases.md)
+- [How the YRoot Works in Practice](docs/cases.md)
 - [Case Study: Power System Design](docs/examples/power.md)
 - [Case Study: Apollo 13 Historical](docs/examples/apollo13_case.md)
 - [Case Study: Burnout](docs/examples/burnout.md)

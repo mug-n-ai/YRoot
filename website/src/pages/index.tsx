@@ -8,7 +8,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 export default function Home() {
   return (
     <Layout
-      title="The WHY Loop"
+      title="The YRoot"
       description="A reasoning method to turn goals into grounded actions — one WHY at a time.">
       
       <header className={styles.heroBanner}>
@@ -16,7 +16,7 @@ export default function Home() {
           <div style={{ display: 'flex', justifyContent: 'center' }}>
             <Logo className={styles.heroLogo} />
           </div>
-          <h1 className="hero__title">The WHY Loop</h1>
+          <h1 className="hero__title">The YRoot</h1>
           <p className="hero__subtitle">
             A structured method to move from goals to grounded actions — through logic, iteration, and one powerful question.
           </p>
@@ -67,18 +67,18 @@ export default function Home() {
   <div className="text--center">
     <img
       src={useBaseUrl('/img/diagram.svg')}
-      alt="Simplified WHY Loop Diagram"
+      alt="Simplified YRoot Diagram"
       style={{ maxWidth: '600px', margin: '0 auto' }}
     />
   </div>
 </section>
 
         <section className="container padding-vert--lg">
-          <h2 className="text--center">Explore the WHY Loop</h2>
+          <h2 className="text--center">Explore the YRoot</h2>
           <div className="row text--center">
             <div className="col col--4">
               <h4>The Method</h4>
-              <p>Step-by-step breakdown of the WHY Loop structure.</p>
+              <p>Step-by-step breakdown of the YRoot structure.</p>
               <Link to="/method" className="button button--primary button--sm">Read More</Link>
             </div>
             <div className="col col--4">
@@ -96,7 +96,7 @@ export default function Home() {
 
         <section className="container padding-vert--lg">
           <h2 className="text--center">Case Studies</h2>
-          <p className="text--center">See how the WHY Loop applies in coaching, education, crisis response, and career change.</p>
+          <p className="text--center">See how the YRoot applies in coaching, education, crisis response, and career change.</p>
           <div className="text--center">
             <Link className="button button--secondary button--lg" to="/cases">
               View Examples

@@ -1,4 +1,4 @@
-# Case Study: Burnout and Performance Recovery — Rebuilding Clarity with the WHY Loop
+# Case Study: Burnout and Performance Recovery — Rebuilding Clarity with the YRoot
 
 ---
 
@@ -15,9 +15,9 @@ How do you **sustain performance** while **protecting your wellbeing**?
 
 ---
 
-## 2. Enter the WHY Loop
+## 2. Enter the YRoot
 
-Instead of reacting emotionally, the WHY Loop provides a way to break the situation into parts:
+Instead of reacting emotionally, the YRoot provides a way to break the situation into parts:
 
 - What exactly is the goal?  
 - What must be true for that goal to be realistic?  
@@ -63,7 +63,7 @@ What must be true for that goal to happen?
 The client decides to **start with the second option** (daily decompression), then negotiate a 5-day break as a next milestone.
 
 :::tip
-The WHY Loop helps reduce overwhelm:  
+The YRoot helps reduce overwhelm:  
 Instead of “I need to recover somehow,” it asks, “What would help — and why might it work right now?”
 :::
 
@@ -87,7 +87,7 @@ The problem isn’t just workload — it’s the internal story about *who I nee
 
 ### Sub-loop: Address the internal narrative
 
-A new WHY Loop is created within the original one.
+A new YRoot is created within the original one.
 
 **Goal:** Feel permitted to recover  
 **Need:** Reframe guilt as responsibility  
@@ -131,7 +131,7 @@ But they did:
 - Define new, sustainable expectations
 
 :::note
-The WHY Loop helped turn emotional fog into clear, structured questions:  
+The YRoot helped turn emotional fog into clear, structured questions:  
 “What do I need? What helps? What blocks it? What’s possible *now*?”
 :::
 
@@ -140,7 +140,7 @@ Sometimes the biggest obstacle isn’t out there — it’s the story we’re te
 
 ---
 
-## 4. Why the WHY Loop helped
+## 4. Why the YRoot helped
 
 - It broke complexity into manageable pieces  
 - It forced clarity instead of vague goals  

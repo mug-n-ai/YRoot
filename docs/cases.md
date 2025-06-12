@@ -1,8 +1,8 @@
 # Case Studies
 
-This section collects real and fictional examples of how the WHY Loop can be applied to different challenges—personal, professional, and historical.
+This section collects real and fictional examples of how the YRoot can be applied to different challenges—personal, professional, and historical.
 
-Each case follows the WHY Loop structure: defining a goal, identifying needs, exploring strategies, and addressing risks.
+Each case follows the YRoot structure: defining a goal, identifying needs, exploring strategies, and addressing risks.
 
 ---
 

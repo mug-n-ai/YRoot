@@ -1,4 +1,4 @@
-# The WHY Loop
+# The YRoot
 
 A structured reasoning method to transform your goals into grounded, testable actions — by asking "Why?" at every step.
 

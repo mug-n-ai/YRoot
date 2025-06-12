@@ -1,4 +1,4 @@
-# Case Study: Apollo 13 — How the WHY Loop Mirrors Real-Life Crisis Thinking
+# Case Study: Apollo 13 — How the YRoot Mirrors Real-Life Crisis Thinking
 
 ---
 
@@ -18,13 +18,13 @@ This explosion severely damaged the spacecraft. The original goal was abandoned.
 What followed was an extraordinary example of human problem solving.  
 Engineers and astronauts had to **understand the situation, figure out what was needed**, and **quickly find workable solutions**—often using whatever materials were already on board.
 
-Their thinking closely mirrors the WHY Loop.
+Their thinking closely mirrors the YRoot.
 
 ---
 
-## 3. Applying the WHY Loop (retrospectively)
+## 3. Applying the YRoot (retrospectively)
 
-Let’s look at how the WHY Loop would have structured their reasoning.
+Let’s look at how the YRoot would have structured their reasoning.
 
 ---
 
@@ -48,13 +48,13 @@ To reach that goal, certain things had to be true:
 | **N2. Structural integrity** | The spacecraft must hold together for the full journey |
 | **N3. Accurate re-entry** | The return path must be calculated and executed precisely |
 
-We’ll focus on **N1: Life Support** to show how the WHY Loop helps.
+We’ll focus on **N1: Life Support** to show how the YRoot helps.
 
 ---
 
 ## 4. Strategic Bifurcation — Life Support (N1)
 
-Once the need is identified, the WHY Loop asks:
+Once the need is identified, the YRoot asks:
 
 > What could help? Why might it work?  
 > What could go wrong? Why might it fail?
@@ -82,7 +82,7 @@ So... to make it work, they had to break it down into sub-needs.
 | Keep warm | Stay still and use body heat | Conserves energy | Risk of condensation, illness |
 
 :::tip
-**Insight from the WHY Loop**:  
+**Insight from the YRoot**:  
 Breaking down the need (life support) into smaller, solvable parts helps identify specific actions — even if they weren’t part of the original plan.
 :::
 
@@ -99,7 +99,7 @@ Everything had to be invented on the fly.
 - **Human factors:** Cold, fatigue, and stress could affect the astronauts' performance.
 
 :::caution
-This is where the WHY Loop shows its strength:  
+This is where the YRoot shows its strength:  
 Instead of focusing only on what might work, it pushes you to think about what might **fail**—so you can prepare for it.
 :::
 
@@ -115,7 +115,7 @@ Instead of focusing only on what might work, it pushes you to think about what m
 
 ---
 
-## 5. Navigation: A second WHY Loop
+## 5. Navigation: A second YRoot
 
 When it came time to return to Earth, the crew faced a new problem:
 
@@ -154,9 +154,9 @@ Return to Earth safely, entering at the right angle.
 
 ---
 
-## 6. Why the WHY Loop fits
+## 6. Why the YRoot fits
 
-The WHY Loop didn’t exist in 1970.  
+The YRoot didn’t exist in 1970.  
 But NASA’s thinking followed a similar logic:
 
 1. **Redefine the goal**
@@ -165,7 +165,7 @@ But NASA’s thinking followed a similar logic:
 4. **Break complex problems into solvable parts**
 5. **Act on what is most viable**
 
-This case shows how the WHY Loop reflects real-world reasoning in a crisis.  
+This case shows how the YRoot reflects real-world reasoning in a crisis.  
 It doesn’t give you the answers — but it **guides you to find them** under pressure.
 
 ---

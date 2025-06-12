@@ -1,6 +1,6 @@
 # License
 
-All original content on this site — including the WHY Loop framework, method description, diagrams, and case studies — is published under the following license:
+All original content on this site — including the YRoot framework, method description, diagrams, and case studies — is published under the following license:
 
 ## Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 
@@ -45,5 +45,5 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 - **License**: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 - **Author**: Lorenzo Mugnai  
-- **Title**: *The WHY Loop*  
+- **Title**: *The YRoot*  
 - **First published**: 7 June 2025

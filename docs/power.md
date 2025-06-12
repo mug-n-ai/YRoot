@@ -1,6 +1,6 @@
-# Why the WHY Loop Works
+# Why the YRoot Works
 
-The WHY Loop is simple. But that’s exactly what makes it powerful.
+The YRoot is simple. But that’s exactly what makes it powerful.
 
 It doesn’t require complex tools, advanced training, or detailed frameworks. Yet again and again, it helps people move from confusion to clarity, from pressure to progress, from inertia to action.
 
@@ -12,7 +12,7 @@ So what makes it work?
 
 When we feel overwhelmed, stuck, or under pressure, our minds often swirl in loops of frustration, fear, or overthinking.
 
-The WHY Loop acts like a scaffolding for the mind.
+The YRoot acts like a scaffolding for the mind.
 
 :::tip
 Instead of spiraling in emotion, it gives you a path:
@@ -35,7 +35,7 @@ Most people say things like:
 
 But these aren’t goals. They’re signals.
 
-The WHY Loop helps you translate those signals into **explicit objectives with logical conditions**. That changes everything, because once a goal is testable, it becomes actionable.
+The YRoot helps you translate those signals into **explicit objectives with logical conditions**. That changes everything, because once a goal is testable, it becomes actionable.
 
 ---
 
@@ -43,7 +43,7 @@ The WHY Loop helps you translate those signals into **explicit objectives with l
 
 One of the most common traps in decision-making is building plans based on **untested assumptions**.
 
-The WHY Loop inserts a constant mechanism of questioning:  
+The YRoot inserts a constant mechanism of questioning:  
 **Why? Why this? Why now? Why would it work?**
 
 :::note
@@ -57,7 +57,7 @@ Better to pivot at step 2 than to collapse at step 9.
 
 Most frameworks focus only on **what helps**.
 
-The WHY Loop always asks:
+The YRoot always asks:
 
 > What could go wrong?  
 > Why might this fail?  
@@ -71,14 +71,14 @@ That double path, one toward possibility, one toward fragility, allows you to **
 
 You don’t have to know everything in advance. You just need to start.
 
-Any action that emerges from a WHY Loop can itself be analysed with a new loop. That makes the framework:
+Any action that emerges from a YRoot can itself be analysed with a new loop. That makes the framework:
 
 - Scalable across complexity
 - Adaptable over time
 - Naturally iterative, like real life
 
 :::info
-The WHY Loop doesn’t give you all the answers.  
+The YRoot doesn’t give you all the answers.  
 It gives you the best next question.
 :::
 
@@ -86,7 +86,7 @@ It gives you the best next question.
 
 ## 6. It works across contexts
 
-You can use the WHY Loop in:
+You can use the YRoot in:
 
 - Coaching and personal development
 - Team strategy and project planning
@@ -94,7 +94,7 @@ You can use the WHY Loop in:
 - Crisis management or high-stakes decisions
 - Writing, research, negotiation, habit design
 
-Wherever you think, the WHY Loop fits.
+Wherever you think, the YRoot fits.
 
 ---
 
@@ -102,7 +102,7 @@ Wherever you think, the WHY Loop fits.
 
 When people are overwhelmed, they lose a sense of control.
 
-By giving structure to thought, the WHY Loop **restores decision-making as something active**, not reactive. You start seeing options again. You start seeing the reasons behind what you’re doing.
+By giving structure to thought, the YRoot **restores decision-making as something active**, not reactive. You start seeing options again. You start seeing the reasons behind what you’re doing.
 
 You’re no longer acting out of panic, but out of intention.
 
@@ -110,7 +110,7 @@ You’re no longer acting out of panic, but out of intention.
 
 ## In Summary
 
-The WHY Loop works because it reflects how good reasoning unfolds: step by step, with questions at each turn.
+The YRoot works because it reflects how good reasoning unfolds: step by step, with questions at each turn.
 
 It helps you slow down just enough to think better, and then act faster, with clarity.
 
@@ -121,6 +121,6 @@ It helps you slow down just enough to think better, and then act faster, with cl
 
 ## Related Pages
 
-- [How the WHY Loop Works in Practice](cases.md)  
+- [How the YRoot Works in Practice](cases.md)  
 - [The Method Explained](method.md)  
-- [The WHY Loop vs Other Frameworks](context.md)
+- [The YRoot vs Other Frameworks](context.md)

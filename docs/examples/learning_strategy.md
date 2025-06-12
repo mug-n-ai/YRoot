@@ -1,4 +1,4 @@
-# Case Study: University Study Strategy — Learning Smarter with the WHY Loop
+# Case Study: University Study Strategy — Learning Smarter with the YRoot
 
 ---
 
@@ -12,13 +12,13 @@ They’re frustrated, overwhelmed, and starting to wonder if they’re just not 
 
 This is a common trap: when effort doesn’t lead to progress, we often push harder in the wrong direction.
 
-The WHY Loop offers a different approach.
+The YRoot offers a different approach.
 
 ---
 
 ## 2. From confusion to clarity
 
-Instead of asking *how much more effort* is needed, the WHY Loop helps ask:
+Instead of asking *how much more effort* is needed, the YRoot helps ask:
 
 - What exactly do I want?
 - What must be true for that to happen?
@@ -65,7 +65,7 @@ To reach this goal, several things must be true:
 The student chooses to start with **solo review** using old exams, and add **a group session once a week** to validate understanding.
 
 :::tip
-The WHY Loop breaks “study more” into “learn smarter” — by identifying *which* actions improve *which* needs.
+The YRoot breaks “study more” into “learn smarter” — by identifying *which* actions improve *which* needs.
 :::
 
 ---
@@ -76,7 +76,7 @@ The WHY Loop breaks “study more” into “learn smarter” — by identifying
   → *Why it fails:* It feels productive, but builds no usable skill  
   → *Risk:* Reinforces false confidence
 
-→ A new WHY Loop is created to address **how the student studies**.
+→ A new YRoot is created to address **how the student studies**.
 
 ---
 
@@ -109,7 +109,7 @@ Performance isn’t just about knowledge — it’s also about emotional regulat
 → After a few sessions, the student reports **better focus and fewer anxiety spikes**.
 
 :::note
-The WHY Loop integrates emotional and cognitive needs — because real learning involves both.
+The YRoot integrates emotional and cognitive needs — because real learning involves both.
 :::
 
 ---
@@ -125,7 +125,7 @@ Instead of just pushing harder, the student:
 
 ---
 
-## 4. Why the WHY Loop helped
+## 4. Why the YRoot helped
 
 - Reframed “studying” as a set of solvable problems  
 - Exposed hidden risks (like passive review and emotional overload)  

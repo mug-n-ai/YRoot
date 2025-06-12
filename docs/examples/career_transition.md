@@ -1,4 +1,4 @@
-# Case Study: Career Change — Turning Intention into Strategy with the WHY Loop
+# Case Study: Career Change — Turning Intention into Strategy with the YRoot
 
 ---
 
@@ -11,13 +11,13 @@ A mid-career professional seeks coaching. They’re successful in their technica
 But everything feels risky and vague.  
 Where do you even start when the goal is emotional, complex, and life-changing?
 
-That’s where the WHY Loop comes in.
+That’s where the YRoot comes in.
 
 ---
 
 ## 2. From emotion to structure
 
-Instead of staying in a loop of hesitation, the WHY Loop helps break the desire into:
+Instead of staying in a loop of hesitation, the YRoot helps break the desire into:
 
 - A specific, testable goal  
 - Clear needs that must be met  
@@ -64,7 +64,7 @@ The client uses both:
 They negotiate a part-time contract **and** make a six-month budget plan with their partner.
 
 :::tip
-The WHY Loop supports layered thinking.  
+The YRoot supports layered thinking.  
 You don’t have to pick one solution — you can combine what helps, step by step.
 :::
 
@@ -77,7 +77,7 @@ You don’t have to pick one solution — you can combine what helps, step by st
   → Lowers confidence on both paths
 
 :::caution
-This is where a new WHY Loop begins:  
+This is where a new YRoot begins:  
 The real obstacle is *emotional resilience during uncertainty*.
 :::
 
@@ -88,7 +88,7 @@ The real obstacle is *emotional resilience during uncertainty*.
 ## Iteration: Clarifying the “meaningful work” goal
 
 Vague goals like “I want to help people” or “do something creative” don’t guide action.  
-So the WHY Loop goes deeper.
+So the YRoot goes deeper.
 
 **Goal:** Define what “fulfilling” actually means to this person.
 
@@ -114,13 +114,13 @@ Instead of quitting impulsively or staying frozen, the client:
 - Turned anxiety into a roadmap
 
 :::note
-Each action emerged from a validated WHY Loop:  
+Each action emerged from a validated YRoot:  
 Not just what they wanted, but **what was needed and why it could work now**.
 :::
 
 ---
 
-## 4. Why the WHY Loop helped
+## 4. Why the YRoot helped
 
 - Transformed a life dream into a structured plan  
 - Balanced risk with exploration  

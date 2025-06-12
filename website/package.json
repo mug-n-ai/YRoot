@@ -8,7 +8,7 @@
     "build": "docusaurus build",
     "predeploy": "npm run build",
     "swizzle": "docusaurus swizzle",
-    "deploy": "gh-pages -d build -u 'github-actions <github-actions@github.com>' -r https://x-access-token:${GH_TOKEN}@github.com/mug-n-ai/The-WHY-loop.git",
+    "deploy": "gh-pages -d build -u 'github-actions <github-actions@github.com>' -r https://x-access-token:${GH_TOKEN}@github.com/mug-n-ai/YRoot.git",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",

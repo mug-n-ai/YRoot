@@ -5,10 +5,10 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'The WHY Loop',
+  title: 'The YRoot',
   tagline: 'From goals to grounded actions — one WHY at a time',
   url: 'https://mug-n-ai.github.io', 
-  baseUrl: '/The-WHY-loop/',
+  baseUrl: '/YRoot/',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -17,7 +17,7 @@ const config: Config = {
   },
 
   organizationName: 'mug-n-ai', // Usually your GitHub org/user name.
-  projectName: 'The-WHY-loop',
+  projectName: 'YRoot',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
@@ -58,9 +58,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'The WHY Loop',
+      title: 'The YRoot',
       logo: {
-        alt: 'The WHY Loop Logo',
+        alt: 'The YRoot Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -77,7 +77,7 @@ const config: Config = {
             },
 
         {
-          label: 'Why Loop in Context',
+          label: 'YRoot in Context',
           to: '/context',
           activeBasePath: '/context',
           position: 'left',
@@ -89,7 +89,7 @@ const config: Config = {
           position: 'left',
         },
         {
-          href: 'https://github.com/mug-n-ai/The-WHY-loop',
+          href: 'https://github.com/mug-n-ai/YRoot',
           label: 'GitHub',
           position: 'right',
         },
@@ -112,7 +112,7 @@ const config: Config = {
               to: '/power',
             },
             {
-              label: 'WHY Loop in Context',
+              label: 'YRoot in Context',
               to: '/context',
             },
             {
