@@ -12,7 +12,7 @@ The YRoot is composed of **three main steps** and can be read:
 - Top-down — for analysis and planning  
 - Bottom-up — for execution and action
 
-![YRoot Diagram](diagram.png)
+![YRoot Diagram](diagram.svg)
 
 Each step serves a precise function in turning intention into informed action.
 
