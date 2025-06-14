@@ -25,7 +25,10 @@ It started as an attempt to capture how I, personally, approach decisions and pr
 
 Over time, I noticed a recurring pattern in my reasoning: I tend to break problems into manageable parts and then interrogate each of them with one simple question—Why?
 
-This question isn’t random. It’s the same one we ask instinctively as children, and it turns out to be incredibly powerful. It sharpens focus, exposes weak points, and—most importantly—it brings out meaning.
+This approach isn’t unique to me. It reflects a mindset deeply rooted in physics and the scientific method: when a problem is too complex to grasp all at once, the only way forward is to decompose it, isolate its variables, and test each part for coherence. YRoot builds on this principle—but expands it beyond technical contexts to help with everyday reasoning, decision-making, and planning.
+
+And the question “Why?” isn’t random. It’s the same one we ask instinctively as children, and it turns out to be incredibly powerful. It sharpens focus, exposes weak points, and, most importantly, it brings out meaning.
+
 
 One principle became central for me:
 Getting the right answer for the wrong reason is still the wrong answer.
