@@ -25,7 +25,6 @@ Its recursive architecture allows for both strategic planning and reflective eva
 
 The YRoot shares themes with many respected frameworks. But it offers a unique logic-first structure that can both precede and enhance them.
 
-| Framework | Main Question | Strength | Limitation | Use Type |
 :::note
 Scroll the table horizontally on mobile
 :::
