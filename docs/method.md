@@ -18,6 +18,25 @@ Each step serves a precise function in turning intention into informed action.
 
 ---
 
+## Why I Created the YRoot
+
+YRoot wasn’t born as a theoretical model.
+It started as an attempt to capture how I, personally, approach decisions and problems in different areas of life—whether as an astrophysicist analyzing data, a writer shaping a story, or simply someone trying to act with intention in the chaos of everyday life.
+
+Over time, I noticed a recurring pattern in my reasoning: I tend to break problems into manageable parts and then interrogate each of them with one simple question—Why?
+
+This question isn’t random. It’s the same one we ask instinctively as children, and it turns out to be incredibly powerful. It sharpens focus, exposes weak points, and—most importantly—it brings out meaning.
+
+One principle became central for me:
+Getting the right answer for the wrong reason is still the wrong answer.
+We’re often tempted to take action quickly, to feel productive. But unless we understand why we do what we do, we risk building fragile structures on shaky ground.
+
+YRoot helps prevent that.
+It doesn’t just help you act—it helps you act for the right reasons.
+That clarity, more than speed or efficiency, is what truly makes the difference.
+
+---
+
 ## 1. GOAL — What do you want to achieve? Why?
 
 :::tip
