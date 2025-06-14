@@ -34,6 +34,16 @@ export default function Home() {
 
       <main>
 
+<section className="container padding-vert--lg">
+  <h2 className="text--center">Why “Why” Matters</h2>
+  <p className="text--center" style={{ fontSize: '1.1rem', maxWidth: '700px', margin: '0 auto' }}>
+    Many decisions fail not because they’re wrong, but because they’re made for the wrong reasons.
+    <br />
+    <strong>Getting the right answer for the wrong reason is still the wrong answer.</strong>
+    <br />
+    That’s why the YRoot starts by asking “Why?” — again and again — until the reason is as sound as the result.
+  </p>
+</section>
 
         <section className="container padding-vert--lg">
           <h2 className="text--center">The Core Structure</h2>
